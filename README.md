@@ -11,6 +11,8 @@ My name is Darko and I'm a Frontend Developer who loves to work with JavaScript 
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **darko-bazalac/darko-bazalac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
