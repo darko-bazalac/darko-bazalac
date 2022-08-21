@@ -22,6 +22,7 @@ My name is Darko and I'm a Frontend Developer who loves to work with JavaScript 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
 ----
 
 ### :fire: My Stats :
