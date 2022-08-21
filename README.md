@@ -12,7 +12,7 @@ My name is Darko and I'm a Frontend Developer who loves to work with JavaScript 
   </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darko-bazalac)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **darko-bazalac/darko-bazalac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
