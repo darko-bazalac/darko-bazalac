@@ -29,9 +29,7 @@ Right now my mind is focused on learning everything that is related to Web Devel
 ----
 
 ### :fire: My Stats :
-<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darko-bazalac)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 <!--
 **darko-bazalac/darko-bazalac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
