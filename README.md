@@ -17,8 +17,8 @@ Right now my mind is focused on learning everything that is related to Web Devel
 ----
 
 - 🔭 I’m currently working on [Portfolio Website.](https://github.com/darko-bazalac/portfolio-website)
-- 🌱 I’m currently learning **ReactJS.
-- 👯 I’m looking to collaborate on **Open Source Project.
+- 🌱 I’m currently learning **ReactJS**.
+- 👯 I’m looking to collaborate on **Open Source Project**.
 - 💬 Ask me about anything.
 - 📫 How to reach me: LinkedIn, Twitter, Email...
 
@@ -35,6 +35,7 @@ Right now my mind is focused on learning everything that is related to Web Devel
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"  title="Webpack" alt="webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+
 ----
 
 ### :fire: My Stats :
