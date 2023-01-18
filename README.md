@@ -16,7 +16,6 @@ Right now my mind is focused on learning everything that is related to Web Devel
 
 ----
 
-- 🔭 I’m currently working on [Portfolio Website.](https://github.com/darko-bazalac/portfolio-website)
 - 🌱 I’m currently learning **ReactJS**.
 - 👯 I’m looking to collaborate on **Open Source Project**.
 - 💬 Ask me about anything.
